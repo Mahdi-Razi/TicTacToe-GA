@@ -1,1 +1,1 @@
-# TicTacToe-GA
+# Solving TicTacToe using Evolutionary Algorithm
